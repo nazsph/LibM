@@ -1,0 +1,17 @@
+C:\Users\aysen\source\repos\Final\Final\bin\Debug\Final.exe.config
+C:\Users\aysen\source\repos\Final\Final\bin\Debug\Final.exe
+C:\Users\aysen\source\repos\Final\Final\bin\Debug\Final.pdb
+C:\Users\aysen\source\repos\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\aysen\source\repos\Final\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysen\source\repos\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\aysen\source\repos\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\aysen\source\repos\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\aysen\source\repos\Final\Final\obj\Debug\Final.exe
+C:\Users\aysen\source\repos\Final\Final\obj\Debug\Final.pdb
+C:\Users\aysen\source\repos\Final\Final\bin\Debug\MetroFramework.dll
+C:\Users\aysen\source\repos\Final\Final\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\aysen\source\repos\Final\Final\obj\Debug\Final.csproj.CopyComplete
+C:\Users\aysen\source\repos\Final\Final\obj\Debug\Final.AuthenticationPage.resources
+C:\Users\aysen\source\repos\Final\Final\obj\Debug\Final.MainApp.resources
+C:\Users\aysen\source\repos\Final\Final\obj\Debug\Final.MainAppUC.resources
+C:\Users\aysen\source\repos\Final\Final\obj\Debug\Final.SignIn.resources
